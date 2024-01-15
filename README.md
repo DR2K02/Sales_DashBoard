@@ -6,8 +6,11 @@ The main motive of this project is to contribute to the success of a business by
 
 The given objective can be divided into the following detailed components:
 1) Dashboard creation: The Dashboard will contain KPIs,and will allow users to visualize through key features by using filtering and hover through key information.
+
 2)Data analysis: Provide key insights about the data using different visualization techniques.
+
 3)Sales Forecasting: Leverage historical data and apply time series formatting to predict the variations of next 30 days.
+
 4)Recommendations: End goal is to share actionable measures with effetive recommendations.
 
 # Step 1: Install Power BI Desktop
