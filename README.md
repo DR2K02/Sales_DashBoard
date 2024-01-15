@@ -51,3 +51,143 @@ Add visualizations to the dashboard by pinning them from your report.
 # Step 9: Save and Share
 Save your Power BI file (.pbix) to store your work.
 If you have a Power BI service account, you can publish your report to the Power BI service for sharing and collaboration.
+
+
+
+
+
+# Report
+
+# Sales Dashboard Report
+
+# Findings
+
+# Financial Overview
+Total Revenue (2019-20 and 2020-21): $1.57 M
+
+Profit (2019-20 and 2020-21): $175.26 K
+
+Goods Sold: 22K
+
+Average Delivery Time: 3.93 days
+
+Profit Percentage: 11.16%
+
+# Sales by Category
+Office Supply: $0.64 M
+
+Technology: $0.47 M
+
+Furniture: $0.45 M
+
+# Shipping Method
+
+Standard: $0.91 M
+
+Second Class: $0.31 M
+
+First Class: $0.24 M
+
+Same Day: $0.09 M
+
+# Customer Segmentation
+
+Consumer Sales: $753 K
+
+Corporate Sales: $509.74 K
+
+Home Office Sales: $303.06 K
+
+# Payment Method
+
+Cash on Delivery: $667.42 K
+
+Online Transactions: $553.99 K
+
+Card Payments: $344.39 K
+
+# Regional Revenue
+
+Western USA: $522.44 K
+
+Eastern USA: $450.23 K
+
+Southern USA: $252.12 K (Focus for improvement)
+
+# Best Selling Products
+
+# Top 3: Phone, Chairs, Binders
+
+# Top Customers
+
+Tamara Chand: $8.76 K
+
+Raymond Buch: $6.98 K
+
+Hunter Lopez: $5.17 K
+
+Adrian Barton: $5.09 K
+
+# Regional Revenue
+
+California: $49 K
+
+New York: $41 K
+
+Washington: $21 K
+
+# Monthly Revenue Trends
+
+High Spikes: September, December
+
+Low Revenue: January, February
+
+April 2020: Significant profit fall (Covid-19 impact)
+
+October 2020: Good profit despite revenue dip
+
+# Pandemic Trends
+Positive Trend: More goods sold during the pandemic
+
+# Forecast
+Revenue Forecast (Next 30 Days): Upper and Lower Confidence Intervals
+
+Expected Daily Sales: Average of $5 K, peaking on 1st January
+
+# Recommendations
+Payment Method Promotion:
+
+Promote card payments with offers and tie-ups with credit card companies.
+# Regional Expansion:
+
+Expand rapidly in Western and Eastern USA.
+
+Incentivize and improve facilities for Southern USA customers.
+
+Conduct targeted marketing campaigns for Southern USA.
+# Product Bundling:
+
+Bundle chairs and tables to attract new customers with better pricing.
+
+Combine mobile accessories for phones with a 10% off offer.
+# Customer Engagement:
+
+Offer special promotions for customers in California and New York.
+
+Create personalized emails for customer appreciation and birthday promotions.
+# Inventory Management:
+
+Stock up in advance for high-sales months (September, December).
+# Marketing Strategies:
+
+Plan digital marketing campaigns from April to August.
+
+Highlight existing customer feedback for trust-building.
+# Revenue Decline Analysis:
+
+Investigate reasons for declining revenue in October.
+# Cross-Selling Opportunities:
+
+Identify products frequently bought together.
+
+Implement strategies to encourage complementary product purchases.
